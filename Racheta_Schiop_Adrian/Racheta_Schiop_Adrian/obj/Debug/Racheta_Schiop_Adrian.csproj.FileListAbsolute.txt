@@ -1,0 +1,11 @@
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\bin\Debug\Racheta_Schiop_Adrian.exe.config
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\bin\Debug\Racheta_Schiop_Adrian.exe
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\bin\Debug\Racheta_Schiop_Adrian.pdb
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\obj\Debug\Racheta_Schiop_Adrian.csprojAssemblyReference.cache
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\obj\Debug\Racheta_Schiop_Adrian.Form1.resources
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\obj\Debug\Racheta_Schiop_Adrian.Properties.Resources.resources
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\obj\Debug\Racheta_Schiop_Adrian.csproj.GenerateResource.cache
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\obj\Debug\Racheta_Schiop_Adrian.csproj.CoreCompileInputs.cache
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\obj\Debug\Racheta_Schiop_Adrian.exe
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\obj\Debug\Racheta_Schiop_Adrian.pdb
+D:\Clasa 12_ c#\Racheta_Schiop_Adrian\Racheta_Schiop_Adrian\obj\Debug\Racheta_Schiop_Adrian.Generic.resources
